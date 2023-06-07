@@ -1,0 +1,3 @@
+> variable hoisting: 
+	Solution: JavaScript linters and style guides often recommend putting all variable declarations at the top of the function.
+> function definition hoisting only occurs for function declarations, not function expressions.
